@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "0ab2e18789cbe36e5bbe7f33058b263fee9897af",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "Ax": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "H4": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L4": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "20230711",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_CO2_eq12.py",
+    "grainsize": "180-250 um",
+    "hops": "",
+    "identifier": "UW166:C46",
+    "increment": 6,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "UW166",
+    "irradiation_level": "C",
+    "irradiation_position": 11,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L4",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "Ax",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H2",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H4",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 38.934417,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": -112.52067,
+    "mass_spectrometer": "ngx",
+    "material": "Groundmass",
+    "measurement": "ngx_unknown400_300_10_H4_L4_nocenter.py",
+    "post_equilibration": "ngx_pump_extraction_line.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "Jicha, B",
+    "project": "Utah",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Utah",
+    "rlocation": "",
+    "sample": "21BRD-31",
+    "source": {
+        "emission": 2122.0,
+        "trap": 650.01953
+    },
+    "spec_sha": "23aeea083a3aae381788b647572440a5f181dc34",
+    "timestamp": "2023-07-12T07:43:00.195616",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "",
+    "uuid": "72b4aeda-f62a-4a29-9740-8d419442045e",
+    "whiff_result": null
+}
